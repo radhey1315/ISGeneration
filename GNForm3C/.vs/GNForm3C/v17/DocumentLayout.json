@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Bhavin_Project\\GNForm3C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|e:\\bhavin_project\\gnform3c\\app_code\\dal\\issolutiondalbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|solutionrelative:app_code\\dal\\issolutiondalbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|e:\\bhavin_project\\gnform3c\\adminpanel\\account\\acc_expense\\acc_expenseaddedit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|solutionrelative:adminpanel\\account\\acc_expense\\acc_expenseaddedit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|e:\\bhavin_project\\gnform3c\\adminpanel\\issolution.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|solutionrelative:adminpanel\\issolution.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|e:\\bhavin_project\\gnform3c\\app_code\\bal\\issolutionbalbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|solutionrelative:app_code\\bal\\issolutionbalbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|e:\\bhavin_project\\gnform3c\\adminpanel\\issolution.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|solutionrelative:adminpanel\\issolution.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|e:\\bhavin_project\\gnform3c\\adminpanel\\issolutionlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|solutionrelative:adminpanel\\issolutionlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|e:\\bhavin_project\\gnform3c\\adminpanel\\issolutionlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|solutionrelative:adminpanel\\issolutionlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|e:\\bhavin_project\\gnform3c\\adminpanel\\account\\acc_expense\\acc_expenselist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|solutionrelative:adminpanel\\account\\acc_expense\\acc_expenselist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|e:\\bhavin_project\\gnform3c\\adminpanel\\account\\acc_expense\\acc_expenseaddedit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|solutionrelative:adminpanel\\account\\acc_expense\\acc_expenseaddedit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|e:\\bhavin_project\\gnform3c\\adminpanel\\account\\acc_expense\\acc_expenselist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|solutionrelative:adminpanel\\account\\acc_expense\\acc_expenselist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|e:\\bhavin_project\\gnform3c\\adminpanel\\itemissue.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|solutionrelative:adminpanel\\itemissue.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|e:\\bhavin_project\\gnform3c\\adminpanel\\itemissue.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114C6AD1-DE29-4012-9E4B-F51FC6E5BCB6}|http://localhost:36742|solutionrelative:adminpanel\\itemissue.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISSolution.aspx.cs",
+              "DocumentMoniker": "E:\\Bhavin_Project\\GNForm3C\\AdminPanel\\ISSolution.aspx.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\ISSolution.aspx.cs",
+              "ToolTip": "E:\\Bhavin_Project\\GNForm3C\\AdminPanel\\ISSolution.aspx.cs",
+              "RelativeToolTip": "AdminPanel\\ISSolution.aspx.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAwGIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:31:42.399Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ACC_ExpenseAddEdit.aspx.cs",
+              "DocumentMoniker": "E:\\Bhavin_Project\\GNForm3C\\AdminPanel\\Account\\ACC_Expense\\ACC_ExpenseAddEdit.aspx.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Account\\ACC_Expense\\ACC_ExpenseAddEdit.aspx.cs",
+              "ToolTip": "E:\\Bhavin_Project\\GNForm3C\\AdminPanel\\Account\\ACC_Expense\\ACC_ExpenseAddEdit.aspx.cs",
+              "RelativeToolTip": "AdminPanel\\Account\\ACC_Expense\\ACC_ExpenseAddEdit.aspx.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAUwMoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:30:14.345Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISSolution.aspx",
+              "DocumentMoniker": "E:\\Bhavin_Project\\GNForm3C\\AdminPanel\\ISSolution.aspx",
+              "RelativeDocumentMoniker": "AdminPanel\\ISSolution.aspx",
+              "ToolTip": "E:\\Bhavin_Project\\GNForm3C\\AdminPanel\\ISSolution.aspx",
+              "RelativeToolTip": "AdminPanel\\ISSolution.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-02T05:30:28.583Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Itemissue.aspx.cs",
+              "DocumentMoniker": "E:\\Bhavin_Project\\GNForm3C\\AdminPanel\\Itemissue.aspx.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Itemissue.aspx.cs",
+              "ToolTip": "E:\\Bhavin_Project\\GNForm3C\\AdminPanel\\Itemissue.aspx.cs",
+              "RelativeToolTip": "AdminPanel\\Itemissue.aspx.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAuwGQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:26:19.958Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Itemissue.aspx",
+              "DocumentMoniker": "E:\\Bhavin_Project\\GNForm3C\\AdminPanel\\Itemissue.aspx",
+              "RelativeDocumentMoniker": "AdminPanel\\Itemissue.aspx",
+              "ToolTip": "E:\\Bhavin_Project\\GNForm3C\\AdminPanel\\Itemissue.aspx",
+              "RelativeToolTip": "AdminPanel\\Itemissue.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-09T14:21:59.469Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ACC_ExpenseAddEdit.aspx",
+              "DocumentMoniker": "E:\\Bhavin_Project\\GNForm3C\\AdminPanel\\Account\\ACC_Expense\\ACC_ExpenseAddEdit.aspx",
+              "RelativeDocumentMoniker": "AdminPanel\\Account\\ACC_Expense\\ACC_ExpenseAddEdit.aspx",
+              "ToolTip": "E:\\Bhavin_Project\\GNForm3C\\AdminPanel\\Account\\ACC_Expense\\ACC_ExpenseAddEdit.aspx",
+              "RelativeToolTip": "AdminPanel\\Account\\ACC_Expense\\ACC_ExpenseAddEdit.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T15:30:12.876Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ACC_ExpenseList.aspx",
+              "DocumentMoniker": "E:\\Bhavin_Project\\GNForm3C\\AdminPanel\\Account\\ACC_Expense\\ACC_ExpenseList.aspx",
+              "RelativeDocumentMoniker": "AdminPanel\\Account\\ACC_Expense\\ACC_ExpenseList.aspx",
+              "ToolTip": "E:\\Bhavin_Project\\GNForm3C\\AdminPanel\\Account\\ACC_Expense\\ACC_ExpenseList.aspx",
+              "RelativeToolTip": "AdminPanel\\Account\\ACC_Expense\\ACC_ExpenseList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-28T16:33:38.782Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ACC_ExpenseList.aspx.cs",
+              "DocumentMoniker": "E:\\Bhavin_Project\\GNForm3C\\AdminPanel\\Account\\ACC_Expense\\ACC_ExpenseList.aspx.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Account\\ACC_Expense\\ACC_ExpenseList.aspx.cs",
+              "ToolTip": "E:\\Bhavin_Project\\GNForm3C\\AdminPanel\\Account\\ACC_Expense\\ACC_ExpenseList.aspx.cs",
+              "RelativeToolTip": "AdminPanel\\Account\\ACC_Expense\\ACC_ExpenseList.aspx.cs",
+              "ViewState": "AQIAANQAAAAAAAAAAAAwwOQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:40:41.392Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISSolutionBALBase.cs",
+              "DocumentMoniker": "E:\\Bhavin_Project\\GNForm3C\\App_Code\\BAL\\ISSolutionBALBase.cs",
+              "RelativeDocumentMoniker": "App_Code\\BAL\\ISSolutionBALBase.cs",
+              "ToolTip": "E:\\Bhavin_Project\\GNForm3C\\App_Code\\BAL\\ISSolutionBALBase.cs",
+              "RelativeToolTip": "App_Code\\BAL\\ISSolutionBALBase.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAA3wDkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:13:12.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISSolutionDALBase.cs",
+              "DocumentMoniker": "E:\\Bhavin_Project\\GNForm3C\\App_Code\\DAL\\ISSolutionDALBase.cs",
+              "RelativeDocumentMoniker": "App_Code\\DAL\\ISSolutionDALBase.cs",
+              "ToolTip": "E:\\Bhavin_Project\\GNForm3C\\App_Code\\DAL\\ISSolutionDALBase.cs*",
+              "RelativeToolTip": "App_Code\\DAL\\ISSolutionDALBase.cs*",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAIwHEAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:50:31.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISSolutionList.aspx.cs",
+              "DocumentMoniker": "E:\\Bhavin_Project\\GNForm3C\\AdminPanel\\ISSolutionList.aspx.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\ISSolutionList.aspx.cs",
+              "ToolTip": "E:\\Bhavin_Project\\GNForm3C\\AdminPanel\\ISSolutionList.aspx.cs",
+              "RelativeToolTip": "AdminPanel\\ISSolutionList.aspx.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAASwE8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:13:12.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISSolutionList.aspx",
+              "DocumentMoniker": "E:\\Bhavin_Project\\GNForm3C\\AdminPanel\\ISSolutionList.aspx",
+              "RelativeDocumentMoniker": "AdminPanel\\ISSolutionList.aspx",
+              "ToolTip": "E:\\Bhavin_Project\\GNForm3C\\AdminPanel\\ISSolutionList.aspx",
+              "RelativeToolTip": "AdminPanel\\ISSolutionList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-25T17:07:47.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 65,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
